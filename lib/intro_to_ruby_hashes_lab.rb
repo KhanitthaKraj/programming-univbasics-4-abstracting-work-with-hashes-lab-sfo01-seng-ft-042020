@@ -5,7 +5,7 @@ def my_hash_creator(key, value)
   }
 end
 
-# 
+# returns the value corresponding to the provided key
 def read_from_hash(hash, key)
   hash[key]
 end
